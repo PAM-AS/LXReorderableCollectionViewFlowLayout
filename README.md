@@ -1,3 +1,7 @@
+Note: This is a fork of lxcid's project. The only difference in this fork is that currentView is a public property. If you don't need that, you should use the upstream, found here:
+
+ [Upstream repository](https://github.com/lxcid/LXReorderableCollectionViewFlowLayout)
+
 LXReorderableCollectionViewFlowLayout
 =====================================
 
